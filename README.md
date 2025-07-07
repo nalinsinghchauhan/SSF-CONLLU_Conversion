@@ -3,10 +3,12 @@
 This Java project converts linguistically annotated data from the Shakti Standard Format (SSF) to the CoNLL-U format, commonly used in Universal Dependencies (UD) parsing and NLP tasks.
 
 Batch Conversion: Converts all .ssf files in a specified folder to .conllu files with the same base name.
+
 Interactive: Prompts the user for the folder path at runtime.
 
 ## Requirements:
 Java 8 or higher
+
 Sanchay Library (Download and paste in lib/)
 
 ## Follow the Prompt
