@@ -22,9 +22,9 @@ For each filename.ssf in the folder, a filename.conllu will be created in the sa
 ## Project Structure
 Sanchay/
 
-├── lib/                # JAR dependencies
+├── lib/                    # JAR dependencies
 
-├── props/              # Sanchay property files
+├── props/                  # Sanchay property files
 
 ├── src/
 
