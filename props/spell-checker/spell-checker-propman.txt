@@ -1,0 +1,10 @@
+Column Names::PCType	PCClass	FilePath	Charset	ColCount
+
+# Paths should be relative to the workspace
+PropertyTokens	feature-list	props/spell-checker/feature-list.txt	UTF8	2
+PropertyTable	word-lists	props/spell-checker/word-lists.txt	UTF8	3
+PropertyTable	isc-utf8-map	props/spell-checker/isc-utf8-map.txt	UTF8	10
+KeyValueProperties	isc-phonetic-features	props/spell-checker/isc-phonetic-features.txt	UTF8	2
+MultiKeyValueProperties	phonetic-feature-codes	props/spell-checker/phonetic-feature-codes.txt	UTF8	2
+MultiKeyValueProperties	phonetic-feature-values	props/spell-checker/phonetic-feature-values.txt	UTF8	2
+KeyValueProperties	phonetic-feature-weights	props/spell-checker/phonetic-feature-weights.txt	UTF8	2

@@ -1,0 +1,99 @@
+Column Names::Language-Encoding	FontName
+
+# Default fonts
+#Language codes as per ISO 639-2
+
+#English
+eng::utf8	Helvetica
+eng::utf16	Helvetica
+eng::iso-8859-1	Helvetica
+
+#Hindi
+#hin::utf8	Akshar Unicode
+hin::utf8	Sanskrit 2003
+hin::utf16	Sanskrit 2003
+hin::iso-8859-1	Helvetica
+hin::typ-remington	Kruti Dev 010
+hin::phonetic	Shusha
+
+#Marathi
+#mar::utf8	Akshar Unicode
+mar::utf8	Sanskrit 2003
+mar::utf16	Sanskrit 2003
+mar::iso-8859-1	Helvetica
+mar::typ-remington	Kruti Dev 010
+mar::phonetic	Shusha
+
+#Nepali
+#nep::utf8	Akshar Unicode
+nep::utf8	Sanskrit 2003
+nep::utf16	Sanskrit 2003
+nep::iso-8859-1	Helvetica
+nep::typ-remington	Kruti Dev 010
+nep::phonetic	Shusha
+
+#Sanskrit
+#san::utf8	Akshar Unicode
+san::utf8	Sanskrit 2003
+san::utf16	Sanskrit 2003
+san::iso-8859-1	Helvetica
+san::typ-remington	Kruti Dev 010
+san::phonetic	Shusha
+
+#Bengali
+#ben::utf8	Lohit Bengali
+#ben::utf8	Ekushey Durga
+ben::utf8	Likhan
+ben::utf16	Likhan
+
+#Punjabi
+pan::utf8	Code2000
+pan::utf16	Code2000
+
+#Gujarati
+guj::utf8	Code2000
+guj::utf16	Code2000
+
+#Tamil
+tam::utf8	Akshar Unicode
+tam::utf16	Akshar Unicode
+
+#Telugu
+#tel::utf8	Pothana2000
+tel::utf8	Akshar Unicode
+tel::utf16	Akshar Unicode
+tel::eenadu	Eenadu
+tel::vaartha	vaartha
+
+#Oriya
+ori::utf8	utkal
+ori::utf16	utkal
+
+#Kannada
+kan::utf8	Akshar Unicode
+kan::utf16	Akshar Unicode
+
+#Malayalam
+mal::utf8	Akshar Unicode
+mal::utf16	Akshar Unicode
+
+#Kashmiri
+kas::utf8	Goher Kahmiri Unicode
+kas::utf16	Code2000
+
+#Urdu
+urd::utf8	Code2000
+#urd::utf8	Urdu Naksh Unicode
+urd::utf16	Code2000
+urd::nafees-naskh	Nafees Naskh
+
+#Sindhi
+snd::utf8	Code2000
+#snd::utf8	Urdu Naksh Unicode
+snd::utf16	Code2000
+snd::nafees-naskh	Nafees Naskh
+
+#Assamese
+asm::utf8	Likhan
+asm::utf16	Likhan
+

@@ -1,0 +1,4 @@
+# Dependency attributes
+
+psrel	RED::SOLID::TREE
+sth	GREEN::DOTTED::GRAPH

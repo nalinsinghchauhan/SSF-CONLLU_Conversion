@@ -1,0 +1,36 @@
+Column Names::Language
+
+#Language codes as per ISO 639-2
+
+Assamese	asm
+
+Bengali	ben
+
+English	eng
+
+Gujarati	guj
+
+Hindi	hin
+Marathi	mar
+Sanskrit	san
+Nepali	nep
+
+Kannada	kan
+
+Kashmiri	kas
+
+Malayalam	mal
+
+
+Oriya	ori
+
+Punjabi	pan
+
+Tamil	tam
+
+Telugu	tel
+
+Urdu	urd
+
+Sindhi	snd
+

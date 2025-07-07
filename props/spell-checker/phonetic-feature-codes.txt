@@ -1,0 +1,98 @@
+KVPropertiesBegin::type
+c	consonant
+v	vowel
+m	vowel modifier
+k	nukta
+n	number
+p	punctuation
+u	unused
+h	halant
+KVPropertiesEnd
+
+KVPropertiesBegin::maatraa
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::voiced
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::aspirated
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::hard
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::devanagari
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::bangla
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::dravidian
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::diphthong
+t	true
+f	false
+KVPropertiesEnd
+
+KVPropertiesBegin::height
+f	front
+m	mid
+b	back
+KVPropertiesEnd
+
+KVPropertiesBegin::length
+l	long
+s	short
+m	medium
+KVPropertiesEnd
+
+KVPropertiesBegin::svar1
+l	low
+d	lower middle
+m	upper middle
+g	lower high
+h	high
+KVPropertiesEnd
+
+KVPropertiesBegin::svar2
+s	samvrit
+m	ardh-samvrit
+i	ardh-vivrit
+v	vivrit
+KVPropertiesEnd
+
+KVPropertiesBegin::sthaan
+y	dvayoshthya
+o	dantoshthya
+d	dantya
+v	varstya
+t	talavya
+m	murdhanya
+k	komal-talavya
+j	jivhaa-muliya
+s	svaryantramukhi
+KVPropertiesEnd
+
+KVPropertiesBegin::prayatna
+s	sparsha
+n	nasikya
+p	parshvika
+r	prakampi
+g	sangharshi
+v	ardh-svar
+KVPropertiesEnd

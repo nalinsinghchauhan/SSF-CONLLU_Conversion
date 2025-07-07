@@ -1,0 +1,55 @@
+<metadata>
+
+<author lastname="" firstname="" middlename=""/>
+
+<availability format="Electronic/Physical"/>
+
+<bibl>Bibl</bibl>
+
+<bytecount>255</bytecount>
+
+<domain>Health/Tourism/Genreral</domain>
+
+<creation date="" institutename="" creatorname="" lastname="" middlename="" firstname=""/>
+
+<distributor></distributor>
+
+<edition>Number</edition>
+
+<encodingdesc originalencoding="" newencoding="" /> 
+
+<sentencemarker></sentencemarker>
+
+<language name="kn/ma/mr/hi/bn/pa/te/ta/ur" writingsystem="LTR/RTL" script=""/> 
+
+<normalization normalized="Yes/No" utilityname=""/>
+
+<projectdesc>IL-IL consortia</projectdesc>
+
+<pubaddress>Web Address/Physical Address</pubaddress>
+
+<pubdate>Date of Publication</pubdate>
+
+<publicationstmt>copyrighted/non copyrighted</publicationstmt>
+
+<publisher>Name/URL</publisher>
+
+<pubplace>Books, Journal, Magazine, Web</pubplace>
+
+<translation availability="Yes/No" translations="Name of xml file which contains the translation" translator="Translator Name(Fname, lname, mname)" institute="name" language="" writingSystem="" script=""/>
+
+<wordcount>(using wc of Linux/Unix)</wordcount>
+	<body>
+
+		<p paranumber="">
+
+			<segment segmentnumber="1">Segment 1</segment>
+			<segment segmentnumber="2">Segment 2</segment>
+			<sentence sentencenumber=""></sentence>
+		</p>
+	</body>
+<foreign language="" writingsystem=""/>
+
+<Note></Note>
+
+</metadata>

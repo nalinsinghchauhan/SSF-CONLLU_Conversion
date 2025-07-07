@@ -1,0 +1,3 @@
+Column Count::3
+Column Names::lang-enc	word-list	Charset
+hin::utf8	/extra/hindi-wordnet/HindiWN_1_2/wn-wordlist.txt	UTF-8

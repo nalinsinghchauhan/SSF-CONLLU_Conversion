@@ -1,0 +1,14 @@
+#Non-Mandatory Features
+drel	k1::pk1::mk1::jk1::k1s::k4a::k2::k2p::k2s::k2g::k3::k4::k5::k7::k7t::k7p::rd::rh::rt::vmod::nmod::sent-adv::interrogative::imperative::declarative::interjective::active::passive::gap::non-gap::nmod::jjmod::rsp::r6::r6v::nmod__relc::rbmod__relc::jjmod__relc::ras-k1::ras-k2::ras-NEG::vmod__rgkr::vmod__rinst::vmod__rh::vmod__adv::adv::rad::pof::pof_idiom::ccof::coref::cotype::r6-k1::r6-k2::nmod__k1inv::nmod__k2inv::rs::k5prk::fragof::ras::Other
+dmrel	k1::pk1::mk1::jk1::k1s::k4a::k2::k2p::k2s::k2g::k3::k4::k5::k7::k7t::k7p::rd::rh::rt::vmod::nmod::sent-adv::interrogative::imperative::declarative::interjective::active::passive::gap::non-gap::nmod::jjmod::rsp::r6::r6v::nmod__relc::rbmod__relc::jjmod__relc::ras-k1::ras-k2::ras-NEG::vmod__rgkr::vmod__rinst::vmod__rh::vmod__adv::adv::rad::pof::pof_idiom::ccof::coref::cotype::r6-k1::r6-k2::nmod__k1inv::nmod__k2inv::rs::k5prk::fragof::ras::Other
+pbank	ARG0::ARG1::ARG2::ARG3::ARG4::ARG5::ARGA::ARGM-ADV::ARGM-CAU::ARGM-DIR::ARGM-DIS::ARGM-DSP::ARGM-EXT::ARGM-LOC::ARGM-MNR::ARGM-MOD::ARGM-NEG::ARGM-SLC::ARGM-PRD::ARGM-PRP::ARGM-RCL::ARGM-REC::ARGM-TMP::ARG-UNDEF::ARG-ERASE::Other
+ne	NEP::NED::NEO::NEA::NEB::NET::NEL::NETI::NEN::NEM::NETE::Other
+name	Other
+reftype	Other
+coref	Other
+stype	interrogative::imperative::declarative::interjective::Other
+voicetype	active::passive::Other
+mtype	gap::non-gap::Other
+missing	Other
+troot	Other
+cotype	Other

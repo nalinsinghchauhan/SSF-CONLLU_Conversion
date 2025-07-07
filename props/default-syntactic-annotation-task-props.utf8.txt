@@ -1,0 +1,19 @@
+Column Names::Property	Value
+MFeaturesCharset	UTF8
+TaskName	Premchand-2
+SSFCorpusCharset	UTF8
+SSFPropFile	props/ssf-props.txt
+SSFPropCharset	UTF8
+POSTagsFile	workspace/syn-annotation/pos-tags.txt
+SSFCorpusStoryFile	workspace/syn-annotation/Premchand/kahAnI-MS1-30.utf8
+MFeaturesFile	props/fs-mandatory-attribs.txt
+SSFCorpusStoryUTF8File	
+Language	hin::utf8
+PhraseNamesFile	workspace/syn-annotation/phrase-names.txt
+PhraseNamesCharset	UTF8
+TaskPropFile	workspace/syn-annotation/Premchand/task-kahAnI-MS1-20.utf8
+FSPropFile	props/fs-props.txt
+POSTagsCharset	UTF8
+TaskPropCharset	UTF8
+CurrentPosition	1
+FSPropCharset	UTF8

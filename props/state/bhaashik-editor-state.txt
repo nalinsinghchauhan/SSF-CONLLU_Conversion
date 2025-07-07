@@ -1,0 +1,2 @@
+Column Names::Property	Value
+CurrentDir	E:\docs\hindi-zmag\sarfaraz

@@ -1,0 +1,4 @@
+Bhaashik Swing Client:
+
+File "Bhaashik/bhaashik-client-config.txt" contains default host URL, username and password (if used)
+

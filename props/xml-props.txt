@@ -1,0 +1,18 @@
+# Mandatory attributes
+
+basicName	af
+documentTag	Document
+metaDataTag	MetaData
+bodyTag	Body
+paragraphTag	Paragraph
+sentenceTag	Sentence
+nodeTag	Node
+nodeIDTag	NodeID
+lexDataTag	LexData
+nameTag	Tag
+fsTag	FeatureStructure
+fssTag	FeatureStructures
+commentTag	Comment
+
+defAttribSeparator	,
+

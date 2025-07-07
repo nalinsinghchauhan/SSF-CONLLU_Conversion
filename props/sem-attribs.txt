@@ -1,0 +1,11 @@
+# Dependency attributes
+
+pbank	MAGENTA::SOLID::TREE
+trel	BLUE::SOLID::GRAPH
+#stype	WHITE::SOLID::TREE
+#voicetype	WHITE::SOLID::TREE
+#mtype	WHITE::SOLID::TREE
+#missing	WHITE::SOLID::TREE
+#troot   
+#cotype  Other
+

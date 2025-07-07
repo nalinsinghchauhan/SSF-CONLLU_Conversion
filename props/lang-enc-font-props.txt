@@ -1,0 +1,87 @@
+Column Names::Language	FontName
+
+#Language codes as per ISO 639-2
+
+#English
+eng::utf8	_SYSTEM_FONTS_
+eng::utf16	_SYSTEM_FONTS_
+eng::iso-8859-1	_SYSTEM_FONTS_
+
+#Hindi
+hin::utf8	fonts/hin/utf8:fonts/mar/utf8
+hin::utf16	fonts/hin/utf8:fonts/mar/utf8
+hin::iso-8859-1	_SYSTEM_FONTS_
+hin::typ-remington	fonts/hin/typ-remington
+hin::phonetic	fonts/hin/phonetic
+
+#Marathi
+mar::utf8	fonts/mar/utf8:fonts/hin/utf8
+mar::utf16	fonts/mar/utf8:fonts/hin/utf8
+mar::iso-8859-1	_SYSTEM_FONTS_
+mar::typ-remington	fonts/hin/typ-remington
+mar::phonetic	fonts/hin/phonetic
+
+#Nepali
+nep::utf8	fonts/nep/utf8:fonts/hin/utf8:fonts/mar/utf8
+nep::utf16	fonts/nep/utf8:fonts/hin/utf8:fonts/mar/utf8
+nep::iso-8859-1	_SYSTEM_FONTS_
+nep::typ-remington	fonts/hin/typ-remington
+nep::phonetic	fonts/hin/phonetic
+
+#Sanskrit
+san::utf8	fonts/san/utf8:fonts/hin/utf8:fonts/mar/utf8
+san::utf16	fonts/san/utf8:fonts/hin/utf8:fonts/mar/utf8
+san::iso-8859-1	_SYSTEM_FONTS_
+san::typ-remington	fonts/hin/typ-remington
+san::phonetic	fonts/hin/phonetic
+
+#Bengali
+ben::utf8	fonts/ben:fonts/asm
+ben::utf16	fonts/ben:fonts/asm
+
+#Punjabi
+pan::utf8	fonts/pan
+pan::utf16	fonts/pan
+
+#Gujarati
+guj::utf8	fonts/guj
+guj::utf16	fonts/guj
+
+#Tamil
+tam::utf8	fonts/tam
+tam::utf16	fonts/tam
+
+#Telugu
+tel::utf8	fonts/tel
+tel::utf16	fonts/tel
+tel::eenadu	fonts/tel/eenadu
+tel::vaartha	fonts/tel/vaartha
+
+#Malayalam
+mal::utf8	fonts/mal
+
+#Oriya
+ori::utf8	fonts/ori
+ori::utf16	fonts/ori
+
+#Kannada
+kan::utf8	fonts/kan
+kan::utf16	fonts/kan
+
+#Kashmiri
+kas::utf8	fonts/kas:fonts/urd
+kas::utf16	fonts/kas:fonts/urd
+
+#Urdu
+urd::utf8	fonts/urd:fonts/kas
+urd::utf16	fonts/urd:fonts/kas
+urd::nafees-naskh	fonts/urd/nafees-naskh:fonts/kas/nafees-naskh
+
+#Assamese
+asm::utf8	fonts/asm:fonts/ben
+asm::utf16	fonts/asm:fonts/ben
+
+#Sindhi
+snd::utf8	fonts/urd:fonts/kas
+snd::utf16	fonts/urd:fonts/kas
+snd::nafees-naskh	fonts/urd/nafees-naskh:fonts/kas/nafees-naskh

@@ -1,0 +1,44 @@
+Sent_Weight	1
+Comm_Wrd	1
+Comm_Hyp	1
+Comm_Syn	1
+Wrd_Corr	1
+minimal	0
+########################
+srclang	english
+tgtlang	hindi
+prob_threshold	0.9
+hyp_threshold	7.0
+syn_threshold	5.0
+wrd_threshold	0.3
+pn_threshold	1
+########################
+srcfile	data/parallel-corpus/eng-2.txt
+tgtfile	data/parallel-corpus/hin-2.txt
+default_out_dir	workspace/sentence-alignment
+dictpath	workspace/sentence-alignment/dict.dat
+eng_morph_info	workspace/sentence-alignment/morph_flat.data
+hnd_morph_info	workspace/sentence-alignment/final.txt
+eng_tokens	workspace/sentence-alignment/engtokens.txt
+hnd_tokens	workspace/sentence-alignment/hndtokens.txt
+first_np_match	workspace/sentence-alignment/Bhaashik-all-1\Bhaashik\data\first_np_match.txt
+first_commwrd	workspace/sentence-alignment/Bhaashik-all-1\Bhaashik\data\first_commwrd.txt
+first_commhyp	workspace/sentence-alignment/Bhaashik-all-1\Bhaashik\data\first_commhyp.txt
+first_commsyn	workspace/sentence-alignment/Bhaashik-all-1\Bhaashik\data\first_commsyn.txt
+second_dwcorr	workspace/sentence-alignment/second_dwcorr.txt
+eng_mi_cutoff	workspace/sentence-alignment/eng_mi_cutoff.txt
+hnd_mi_cutoff	workspace/sentence-alignment/hnd_mi_cutoff.txt
+bi_pair_file	workspace/sentence-alignment/bi_pair_file.txt
+eng_wt	workspace/sentence-alignment/eng_wt.txt
+hnd_wt	workspace/sentence-alignment/hnd_wt.txt
+first_after_filter_map_file	workspace/sentence-alignment/first_after_filter_map_file.txt
+second_before_filter_map_file	workspace/sentence-alignment/second_before_filter_map_file.txt
+second_after_filter_map_file	workspace/sentence-alignment/second_after_filter_map_file.txt
+search_path_file	workspace/sentence-alignment/search_path_file.txt
+########################
+<Sentence Weights>
+SW::1	1.0::0.0::0.0
+SW::2	0.0::1.0::0.0
+SW::3	0.0::1.0::0.0
+</Sentence Weights>
+########################

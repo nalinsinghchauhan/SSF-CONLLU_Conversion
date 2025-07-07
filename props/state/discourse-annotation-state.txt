@@ -1,0 +1,2 @@
+Column Names::Property	Value
+CurrentDir	C:\Documents and Settings\anil\My Documents

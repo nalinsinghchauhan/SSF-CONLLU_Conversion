@@ -1,0 +1,6 @@
+# Dependency attributes
+
+drel	RED::SOLID::TREE
+dmrel	RED::DOTTED::TREE
+reftype	BLUE::DOTTED::GRAPH
+coref	GREEN::DOTTED::GRAPH

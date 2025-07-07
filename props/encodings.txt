@@ -1,0 +1,13 @@
+#Encoding codes
+
+UTF-8	utf8
+UTF-16	utf16
+ISO-8859-1	iso-8859-1
+ISCII	iscii
+ISFOCM	isfocm
+ISFOCB	isfocb
+Phonetic	phonetic
+Typewriter-Remington	typ-remington
+Eenadu	eenadu
+Vaartha	vaartha
+Nafees Naskh	nafees-naskh

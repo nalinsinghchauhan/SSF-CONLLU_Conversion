@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE document SYSTEM "corporanew=dtd">
+
+<document docid="pa" docnumber="001">
+	
+<meta>
+	<title>
+	
+	<author firstname="" middlename="" lastname=""/>
+	
+	<availability format="electronic"/>
+	
+	<bibl></bibl>
+	
+	<bytecount>1234</bytecount>
+	
+	<domain name="tourism">
+		<subdomain name=""/>
+	</domain>
+	
+	<creation creationdate="22/05/2007" institutename="IIIT-Hyderabad">
+		<creatorname firstname="" middlename="" lastname=""/>
+	</creation>
+	
+	<distributor></distributor>
+	
+	<edition number=""/>
+	
+	<encodingdesc newencoding="" originalencoding=""/>
+	
+	<sentencemarker marker="other"/>
+	
+	<language name="eng" writingsystem="LTR" script="Latin"/>
+	
+	<normalization  normalized="No" utilityname=""/>
+	
+	<projectdesc name="ILMTConsortium"/>
+	
+	<pubaddress addresstype="Physical"/>
+	
+	<pubdate date=""/>
+	
+	<publicationstmt type="copyrighted(TDIL)"/>
+	
+	<publisher name="" address="" url=""/>
+	
+	<pubplace place="BookName"/>
+	
+	<translation number="" availability="" translations="" institutename="" language="" writingsystem=" script">
+		<translator firstname="" middlename="" lastname=""/>
+	</translation>
+	
+	<wordcount><wordcount/>
+	
+	<OriginalFileName>health-utf8.txt</OriginalFileName>
+</meta>
+
+<body>

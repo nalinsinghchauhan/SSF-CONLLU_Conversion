@@ -1,0 +1,66 @@
+#SSF properties
+
+encoding	UTF-8
+rootName	SSF
+chunkStart	((
+chunkEnd	))
+fieldSeparatorRegex	\s
+fieldSeparatorPrint	\t
+#sentenceStart	^<sentence|<Sentence|<s>
+#sentenceEnd	^<\/sentence|<\/Sentence>|<\/s>
+sentenceStart	<Sentence
+sentenceEnd	</Sentence
+
+#metaDataStart	^<meta
+#metaDataEnd	^</meta
+metaDataStart	<head
+metaDataEnd	</head
+
+#paragraphStart	<p
+#paragraphEnd	</p
+paragraphStart	<tb
+paragraphEnd	</tb
+paragraphTextStart	<text
+paragraphTextEnd	</text
+paragraphMetaDataStart	<foreign
+
+#textStart	^<Text
+#textEnd	^<\/Text>
+
+#storyStart	^<document|<Document|<Story
+#storyEnd	^<\/document|<\/Document|<\/Story
+#storyStart	<Story
+#storyEnd	</Story
+storyStart	<document
+storyEnd	</document
+
+#Document	document
+#Attributes: docid, docnumber
+
+#Body	body
+bodyStart	<body
+bodyEnd	</body
+
+#Paragraph	p
+#Segment	segment
+#Attributes: segmentnumber
+
+#Sentence	sentence
+#Attributes: sentencenumber
+
+#Foreign	foreign
+
+wordTagSeparator	_
+unknownTag	UNK
+
+#bracketFormStart	^\s+\[\[
+#bracketFormEnd	\]\]\s+$
+bracketFormStart	[[
+bracketFormEnd	]]
+
+tcTextStart	<phrases
+tcTextEnd	</phrases
+
+tcPhraseStart	<phrase
+tcPhraseEnd	</phrase
+

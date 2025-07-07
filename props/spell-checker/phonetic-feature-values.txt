@@ -1,0 +1,98 @@
+KVPropertiesBegin::type
+unused	0
+vowel modifier	1
+nukta	2
+halant	3
+vowel	4
+consonant	5
+number	6
+punctuation	7
+KVPropertiesEnd
+
+KVPropertiesBegin::maatraa
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::voiced
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::aspirated
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::hard
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::devanagari
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::bangla
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::dravidian
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::diphthong
+true	0
+false	1
+KVPropertiesEnd
+
+KVPropertiesBegin::height
+front	1
+mid	2
+back	3
+KVPropertiesEnd
+
+KVPropertiesBegin::length
+short	1
+medium	2
+long	3
+KVPropertiesEnd
+
+KVPropertiesBegin::svar1
+low	1
+lower middle	2
+upper middle	3
+lower high	4
+high	5
+KVPropertiesEnd
+
+KVPropertiesBegin::svar2
+samvrit	1
+ardh-samvrit	2
+ardh-vivrit	3
+vivrit	4
+KVPropertiesEnd
+
+KVPropertiesBegin::sthaan
+dvayoshthya	1
+dantoshthya	2
+dantya	3
+varstya	4
+talavya	5
+murdhanya	6
+komal-talavya	7
+jivhaa-muliya	8
+svaryantramukhi	9
+KVPropertiesEnd
+
+KVPropertiesBegin::prayatna
+sparsha	1
+nasikya	2
+parshvika	3
+prakampi	4
+sangharshi	5
+ardh-svar	6
+KVPropertiesEnd

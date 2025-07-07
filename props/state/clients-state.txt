@@ -1,0 +1,99 @@
+KVPropertiesBegin::Automatic Annotation
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Database Editor
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Dictionary Editor
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Discourse Annotation
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Document Converter
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::File Splitter
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Frameset Editor
+Column Names::Property	Value
+CurrentDir	.
+KVPropertiesEnd
+KVPropertiesBegin::Integrated Resource Accessor
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Language Encoding Identifier
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::N-Gram Language Model Compiler
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Parallel Corpus Markup
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Parallel Syntactic Annotation
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Propbank Annotation
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik Charmap
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik Editor
+Column Names::Property	Value
+CurrentDir	C:\Users\User\projects\Bhaashik-Maven\Bhaashik\data\parallel-corpus
+fontSize	14
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik HTML Browser
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik Rich Text Editor
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik SSH Client
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik Shell
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Bhaashik_SSH_Client
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Sentence Alignment Interface
+Column Names::Property	Value
+srcLangEnc	eng::utf8
+tgtLangEnc	hin::utf8
+currentDir	.
+KVPropertiesEnd
+KVPropertiesBegin::Syntactic Annotation
+Column Names::Property	Value
+LangEnc	tel::utf8
+CurrentDir	C:\Users\User\projects\Bhaashik-Maven\Issues
+CurrentFontSize	14
+CurrentTreeEditTab	Tags
+KVPropertiesEnd
+KVPropertiesBegin::Table Editor
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Tree Creator
+Column Names::Property	Value
+LangEnc	hin::utf8
+KVPropertiesEnd
+KVPropertiesBegin::Word Alignment Interface
+Column Names::Property	Value
+CurrentSrcDir	C:\Users\User\projects\Bhaashik-Maven\Bhaashik\data\parallel-corpus\bho-hin\Hi-Bh_Parallel-Corpus_PART-1\Bhojpuri_Files
+CurrentTgtDir	C:\Users\User\projects\Bhaashik-Maven\Bhaashik\data\parallel-corpus\bho-hin\Hi-Bh_Parallel-Corpus_PART-1\Hindi_Files
+GIZADir	.
+SrcLangEnc	eng::utf8
+TgtLangEnc	hin::utf8
+CurrentSrcTagDir	C:\Users\User\projects\Bhaashik-Maven\Bhaashik\workspace\syn-annotation
+CurrentTgtTagDir	C:\Users\User\projects\Bhaashik-Maven\Bhaashik\workspace\syn-annotation
+KVPropertiesEnd
+KVPropertiesBegin::Word List Builder
+Column Names::Property	Value
+KVPropertiesEnd
+KVPropertiesBegin::Word List FST Visualizer
+Column Names::Property	Value
+KVPropertiesEnd

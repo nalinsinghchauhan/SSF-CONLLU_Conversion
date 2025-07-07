@@ -1,0 +1,15 @@
+Column Names::IMDescriptor Class	Provider
+
+#GATE input methods
+guk.im.GateIMDescriptor	GATE
+
+# Sun indic input methods
+com.sun.inputmethods.internal.indicim.DevanagariInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.BengaliInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.GujaratiInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.GurmukhiInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.KannadaInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.MalayalamInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.OriyaInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.TamilInputMethodDescriptor	Sun
+com.sun.inputmethods.internal.indicim.TeluguInputMethodDescriptor	Sun

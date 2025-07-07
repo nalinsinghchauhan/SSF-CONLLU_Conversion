@@ -1,0 +1,4 @@
+#Global properties
+SANCHAY_HOME	.
+WORKSPACE	.
+

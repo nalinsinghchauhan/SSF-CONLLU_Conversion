@@ -1,0 +1,10 @@
+#Feature structure properties
+#root	[a-zA\-\_]+
+lex	.+
+cat	n::nst::avy::pn::psp::v::adj::adv::num::punc::unk::c
+gend	m::f::any::::0
+num	sg::pl::any::::0
+pers	3::1::2::::0
+case	d::o::::0
+vib	0::::एं::या::ता::था::ना::को::का::में::ने::के::से
+tam	0::::eM::yA::wA::WA::nA::ko::kA::meM::ne::ke::se

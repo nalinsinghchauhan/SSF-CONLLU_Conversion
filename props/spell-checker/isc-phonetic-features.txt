@@ -1,0 +1,119 @@
+Column Count::2
+Column Names::isc-code	features
+#
+# Phonetic features:
+#
+# type: c(onsonant) | v(owel) | (vowel) m(odifier) | (nu)k(ta) | n(umber) | p(unctuation) | u(nused) | h(alant)
+# maatraa: (t)rue or (f)alse
+# voiced: (t)rue or (f)alse
+# aspirated: (t)rue or (f)alse
+# hard: (t)rue or (f)alse
+# devanagari: (t)rue or (f)alse
+# bangla: (t)rue or (f)alse
+# dravidian: (t)rue or (f)alse
+# diphthong: (t)rue or (f)alse
+# height (for vowels): (f)ront | (m)id | (b)ack
+# length: l(ong) | s(hort) | m(edium)
+# svar1 : (l)ow | lower mi(d)dle | upper (m)iddle | lower hi(g)h | (h)igh
+# svar2 : (s)amvrit | ardh-sa(m)vrit | ardh-v(i)vrit | (v)ivrit
+# sthaan: dva(y)oshthya | dant(o)shthya | (d)antya | (v)arstya | (t)alavya | (m)urdhanya | (k)omal-talavya | (j)ivhaa-muliya | (s)varyantramukhi
+# prayatna: (s)parsha | (n)asikya | (p)arshvika | p(r)akampi | san(g)harshi | ardh-s(v)ar
+#
+# Currently not used:
+#
+# retroflex: (t)rue or (f)alse
+# rounded: (t)rue or (f)alse
+# place: (l)abiodental | (d)ental | l(a)bial | (b)ilabial | (p)alatal | (u)vular | alv(e)olar | palato-al(v)eolar | vela(r) | (g)lottal
+# manner: (s)top | (n)asal | (f)ricative | (a)pproximant | (t)ap
+#
+161	<type="m"/maatraa="t"/voiced="t"/prayatna="n">
+162	<type="m"/maatraa="t"/voiced="t"/prayatna="n">
+163	<type="m"/maatraa="t"/voiced="t"/prayatna="n">
+164	<type="v"/voiced="t"/length="s"/svar2="i"/svar1="d"/height="m">
+165	<type="v"/voiced="t"/length="l"/svar2="v"/svar1="l"/height="b">
+166	<type="v"/voiced="t"/length="s"/svar2="s"/svar1="g"/height="f">
+167	<type="v"/voiced="t"/length="l"/svar2="s"/svar1="h"/height="f">
+168	<type="v"/voiced="t"/length="s"/svar2="s"/svar1="g"/height="b">
+169	<type="v"/voiced="t"/length="l"/svar2="s"/svar1="h"/height="b">
+170	<type="v"/voiced="t"/length="s"/dravidian="t">
+171	<type="v"/voiced="t"/length="m"/svar2="m"/svar1="m">
+172	<type="v"/voiced="t"/length="s"/svar2="m"/svar1="m"/height="f">
+173	<type="v"/voiced="t"/length="l"/svar2="i"/diphthong="t"/height="f">
+174	<type="v"/voiced="t"/length="m"/svar2="i"/svar1="d"/devanagari="t">
+175	<type="v"/voiced="t"/length="m"/svar2="m"/svar1="m"/dravidian="t"/height="b">
+176	<type="v"/voiced="t"/length="s"/svar2="m"/svar1="m"/height="b">
+177	<type="v"/voiced="t"/length="l"/svar2="i"/diphthong="t"/height="b">
+178	<type="v"/voiced="t"/length="m"/svar2="i"/svar1="d"/devanagari="t"/height="b">
+179	<type="c"/sthaan="k"/prayatna="s">
+180	<type="c"/aspirated="t"/sthaan="k"/prayatna="s">
+181	<type="c"/voiced="t"/sthaan="k"/prayatna="s">
+182	<type="c"/voiced="t"/aspirated="t"/sthaan="k"/prayatna="s">
+183	<type="c"/prayatna="n"/sthaan="k">
+184	<type="c"/sthaan="t"/prayatna="s">
+185	<type="c"/aspirated="t"/sthaan="t"/prayatna="s">
+186	<type="c"/voiced="t"/sthaan="t"/prayatna="s">
+187	<type="c"/voiced="t"/aspirated="t"/sthaan="t"/prayatna="s">
+188	<type="c"/voiced="t"/prayatna="n"/sthaan="t">
+189	<type="c"/sthaan="m"/prayatna="s">
+190	<type="c"/aspirated="t"/sthaan="m"/prayatna="s">
+191	<type="c"/voiced="t"/sthaan="m"/prayatna="s">
+192	<type="c"/voiced="t"/aspirated="t"/sthaan="m"/prayatna="s">
+193	<type="c"/voiced="t"/prayatna="n"/sthaan="m">
+194	<type="c"/sthaan="d"/prayatna="s">
+195	<type="c"/aspirated="t"/sthaan="d"/prayatna="s">
+196	<type="c"/voiced="t"/sthaan="d"/prayatna="s">
+197	<type="c"/voiced="t"/aspirated="t"/sthaan="d"/prayatna="s">
+198	<type="c"/voiced="t"/sthaan="v"/prayatna="n">
+199	<type="c"/voiced="t"/sthaan="v"/prayatna="n">
+200	<type="c"/sthaan="y"/prayatna="s">
+201	<type="c"/aspirated="t"/sthaan="y"/prayatna="s">
+202	<type="c"/voiced="t"/sthaan="y"/prayatna="s">
+203	<type="c"/voiced="t"/aspirated="t"/sthaan="y"/prayatna="s">
+204	<type="c"/voiced="t"/prayatna="n"/sthaan="y">
+205	<type="c"/voiced="t"/sthaan="t"/prayatna="v">
+206	<type="c"/voiced="t"/prayatna="v"/sthaan="t"/bangla="t">
+207	<type="c"/voiced="t"/prayatna="r"/sthaan="v">
+208	<type="c"/voiced="t"/prayatna="r"/sthaan="v"/hard="t"/dravidian="t">
+209	<type="c"/voiced="t"/prayatna="p"/sthaan="v">
+210	<type="c"/voiced="t"/prayatna="p"/sthaan="v"/hard="t">
+211	<type="c"/voiced="t"/prayatna="p"/sthaan="v"/dravidian="t">
+212	<type="c"/voiced="t"/sthaan="y"/prayatna="v">
+213	<type="c"/voiced="t"/aspirated="t"/sthaan="t"/prayatna="g">
+214	<type="c"/voiced="t"/aspirated="t"/prayatna="g"/sthaan="t"/hard="t">
+215	<type="c"/voiced="t"/prayatna="g"/sthaan="v">
+216	<type="c"/voiced="t"/aspirated="t">
+218	<type="v"/maatraa="t"/voiced="t"/length="l"/svar2="v"/svar1="l">
+219	<type="v"/maatraa="t"/voiced="t"/length="s"/svar2="s"/svar1="g">
+220	<type="v"/maatraa="t"/voiced="t"/length="l"/svar2="s"/svar1="h">
+221	<type="v"/maatraa="t"/voiced="t"/length="s"/svar2="s"/svar1="g">
+222	<type="v"/maatraa="t"/voiced="t"/length="l"/svar2="s"/svar1="h">
+223	<type="v"/maatraa="t"/voiced="t"/length="s">
+224	<type="v"/maatraa="t"/voiced="t"/length="m"/svar2="m"/svar1="m"/dravidian="t">
+225	<type="v"/maatraa="t"/voiced="t"/length="s"/svar2="m"/svar1="m">
+226	<type="v"/maatraa="t"/voiced="t"/length="l"/svar2="i"/diphthong="t">
+227	<type="v"/maatraa="t"/voiced="t"/length="m"/svar2="i"/svar1="d"/devanagari="t">
+228	<type="v"/maatraa="t"/voiced="t"/length="m"/svar2="m"/svar1="m"/dravidian="t">
+229	<type="v"/maatraa="t"/voiced="t"/length="s"/svar2="m"/svar1="m">
+230	<type="v"/maatraa="t"/voiced="t"/length="l"/svar2="i"/diphthong="t">
+231	<type="v"/maatraa="t"/voiced="t"/length="m"/svar2="i"/svar1="d"/devanagari="t">
+232	<type="h">
+233	<type="k">
+234	<type="p">
+235	<type="u">
+236	<type="u">
+237	<type="u">
+238	<type="u">
+241	<type="n">
+242	<type="n">
+243	<type="n">
+244	<type="n">
+245	<type="n">
+246	<type="n">
+247	<type="n">
+248	<type="n">
+249	<type="n">
+250	<type="n">
+251	<type="u">
+252	<type="u">
+253	<type="u">
+254	<type="u">

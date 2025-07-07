@@ -1,0 +1,4 @@
+TableBegin::Frameset Editing Interface
+Column Count::3
+Column Names::A	B	C
+TableEnd

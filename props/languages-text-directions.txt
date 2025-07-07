@@ -1,0 +1,97 @@
+Column Names::TextDirection
+
+#Right to Left (RTL) or Left to Right (LTR)
+
+#English
+eng::utf8	LTR
+eng::utf16	LTR
+eng::iso-8859-1	LTR
+
+#Hindi
+#hin::utf8	LTR
+hin::utf8	LTR
+hin::utf16	LTR
+hin::iso-8859-1	LTR
+hin::typ-remington	LTR
+hin::phonetic	LTR
+
+#Marathi
+#mar::utf8	LTR
+mar::utf8	LTR
+mar::utf16	LTR
+mar::iso-8859-1	LTR
+mar::typ-remington	LTR
+mar::phonetic	LTR
+
+#Nepali
+#nep::utf8	LTR
+nep::utf8	LTR
+nep::utf16	LTR
+nep::iso-8859-1	LTR
+nep::typ-remington	LTR
+nep::phonetic	LTR
+
+#Sanskrit
+#san::utf8	LTR
+san::utf8	LTR
+san::utf16	LTR
+san::iso-8859-1	LTR
+san::typ-remington	LTR
+san::phonetic	LTR
+
+#Bengali
+#ben::utf8	LTR
+#ben::utf8	LTR
+ben::utf8	LTR
+ben::utf16	LTR
+
+#Punjabi
+pan::utf8	LTR
+pan::utf16	LTR
+
+#Gujarati
+guj::utf8	LTR
+guj::utf16	LTR
+
+#Tamil
+tam::utf8	LTR
+tam::utf16	LTR
+
+#Telugu
+#tel::utf8	LTR
+tel::utf8	LTR
+tel::utf16	LTR
+tel::eenadu	LTR
+tel::vaartha	LTR
+
+#Oriya
+ori::utf8	LTR
+ori::utf16	LTR
+
+#Kannada
+kan::utf8	LTR
+kan::utf16	LTR
+
+#Malayalam
+mal::utf8	LTR
+mal::utf16	LTR
+
+#Kashmiri
+kas::utf8	RTL
+kas::utf16	RTL
+
+#Urdu
+urd::utf8	RTL
+#urd::utf8	RTL
+urd::utf16	RTL
+urd::nafees-naskh	RTL
+
+#Sindhi
+snd::utf8	RTL
+#snd::utf8	RTL
+snd::utf16	RTL
+snd::nafees-naskh	RTL
+
+#Assamese
+asm::utf8	LTR
+asm::utf16	LTR

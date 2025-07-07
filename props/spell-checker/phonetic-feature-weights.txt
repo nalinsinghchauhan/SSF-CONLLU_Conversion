@@ -1,0 +1,17 @@
+Column Count::2
+Column Names::feature	weight
+type	10.0
+maatraa	7.0
+voiced	1.0
+aspirated	1.0
+hard	1.0
+devanagari	1.0
+bangla	1.0
+dravidian	1.0
+diphthong	1.0
+height	1.0
+length	1.0
+svar1	3.0
+svar2	3.0
+sthaan	3.0
+prayatna	3.0

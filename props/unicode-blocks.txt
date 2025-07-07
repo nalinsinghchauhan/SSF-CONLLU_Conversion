@@ -1,0 +1,89 @@
+Column Names::Name	RangeStart	RangeEnd	Script
+Basic Latin	0000	007F	Latin
+Latin-1 Supplement	0080	00FF	Latin
+Latin Extended-A	0100	017F	Latin
+Latin Extended-B	0180	024F	Latin
+IPA Extensions	0250	02AF	IPA
+Spacing Modifier Letters	02B0	02FF	Common
+Combining Diacritical Marks	0300	036F	Common
+Greek	0370	03FF	Greek
+Cyrillic	0400	04FF	Cyrillic
+Armenian	0530	058F	Armenian
+Hebrew	0590	05FF	Hebrew
+Arabic	0600	06FF	Arabic
+Syriac	0700	074F	Syriac
+Thaana	0780	07BF	Thaana
+Devanagari	0900	097F	Devanagari
+Bengali	0980	09FF	Bengali
+Gurmukhi	0A00	0A7F	Gurmukhi
+Gujarati	0A80	0AFF	Gujarati
+Oriya	0B00	0B7F	Oriya
+Tamil	0B80	0BFF	Tamil
+Telugu	0C00	0C7F	Telugu
+Kannada	0C80	0CFF	Kannada
+Malayalam	0D00	0D7F	Malayalam
+Sinhala	0D80	0DFF	Sinhala
+Thai	0E00	0E7F	Thai
+Lao	0E80	0EFF	Lao
+Tibetan	0F00	0FFF	Tibetan
+Myanmar	1000	109F	Myanmar
+Georgian	10A0	10FF	Georgian
+Hangul Jamo	1100	11FF	Hangul
+Ethiopic	1200	137F	Ethiopic
+Cherokee	13A0	13FF	Cherokee
+Unified Canadian Aboriginal Syllabics	1400	167F	Canadian Aboriginal
+Ogham	1680	169F	Ogham
+Runic	16A0	16FF	Runic
+Khmer	1780	17FF	Khmer
+Mongolian	1800	18AF	Mongolian
+Latin Extended Additional	1E00	1EFF	Latin
+Greek Extended	1F00	1FFF	Greek
+General Punctuation	2000	206F	Common
+Superscripts and Subscripts	2070	209F	Common
+Currency Symbols	20A0	20CF	Common
+Combining Marks for Symbols	20D0	20FF	Common
+Letterlike Symbols	2100	214F	Common
+Number Forms	2150	218F	Common
+Arrows	2190	21FF	Common
+Mathematical Operators	2200	22FF	Common
+Miscellaneous Technical	2300	23FF	Common
+Control Pictures	2400	243F	Common
+Optical Character Recognition	2440	245F	Common
+Enclosed Alphanumerics	2460	24FF	Common
+Box Drawing	2500	257F	Common
+Block Elements	2580	259F	Common
+Geometric Shapes	25A0	25FF	Common
+Miscellaneous Symbols	2600	26FF	Common
+Dingbats	2700	27BF	Common
+Braille Patterns	2800	28FF	Braille
+CJK Radicals Supplement	2E80	2EFF	Han
+Kangxi Radicals	2F00	2FDF	Han
+Ideographic Description Characters	2FF0	2FFF	Han
+CJK Symbols and Punctuation	3000	303F	Han
+Hiragana	3040	309F	Hiragana
+Katakana	30A0	30FF	Katakana
+Bopomofo	3100	312F	Bopomofo
+Hangul Compatibility Jamo	3130	318F	Hangul
+Kanbun	3190	319F	Kanbun
+Bopomofo Extended	31A0	31BF	Bopomofo
+Enclosed CJK Letters and Months	3200	32FF	Han
+CJK Compatibility	3300	33FF	Han
+CJK Unified Ideographs Extension A	3400	4DB5	Han
+CJK Unified Ideographs	4E00	9FFF	Han
+Yi Syllables	A000	A48F	Yi
+Yi Radicals	A490	A4CF	Yi
+Hangul Syllables	AC00	D7A3	Hangul
+High Surrogates	D800	DB7F	Common
+High Private Use Surrogates	DB80	DBFF	Common
+Low Surrogates	DC00	DFFF	Common
+Private Use	E000	F8FF	Common
+CJK Compatibility Ideographs	F900	FAFF	Han
+Alphabetic Presentation Forms	FB00	FB4F	Common
+Arabic Presentation Forms-A	FB50	FDFF	Arabic
+Combining Half Marks	FE20	FE2F	Common
+CJK Compatibility Forms	FE30	FE4F	Han
+Small Form Variants	FE50	FE6F	Common
+Arabic Presentation Forms-B	FE70	FEFE	Arabic
+Specials	FEFF	FEFF	Common
+Halfwidth and Fullwidth Forms	FF00	FFEF	Common
+Specials	FFF0	FFFD	Common

@@ -1,0 +1,17 @@
+Column Count::1
+Column Names::feature-list
+type
+maatraa
+voiced
+aspirated
+hard
+devanagari
+bangla
+dravidian
+diphthong
+height
+length
+svar1
+svar2
+sthaan
+prayatna

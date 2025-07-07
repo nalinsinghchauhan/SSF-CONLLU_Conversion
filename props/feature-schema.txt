@@ -1,0 +1,4 @@
+Column Names::ColumnName	DataType	DefaultValue	EnumValues
+
+Feature	Enum	ne	ne::drel::name::dmrel::reftype::coref
+Value	Enum	k1	NEP::NED::NEO::NEA::NEB::NET::NEL::NETI::NEN::NEM::NETE::k1::k2::k3::k4::k5::k7s::k7p::vmod::nmod
